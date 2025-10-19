@@ -1,9 +1,9 @@
 # Forensics – Renderer Provenance Detection
 
-This project identifies which software generated a PDF (LibreOffice or ReportLab) purely from visual features extracted from rendered images.  
+This project identifies which software generated a PDF (LibreOffice or ReportLab) purely from visual features extracted from rendered images. The data is uploaded in the ub box and the link is shared.
 It demonstrates that even when text and formatting are identical, distinct rasterization patterns, font rendering, and layout cues reveal the document’s provenance.
 
----
+
 
 ## Objective
 
@@ -60,5 +60,6 @@ data/
   corpus_txt/  docx/  generated_pdfs/{libre,reportlab}  images/{libre,reportlab}
 results/
   models/
+
 
 
