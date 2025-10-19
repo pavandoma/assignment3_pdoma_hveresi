@@ -1,0 +1,9 @@
+python-docx
+tqdm
+PyMuPDF
+scikit-learn
+opencv-python
+pandas
+joblib
+reportlab
+numpy

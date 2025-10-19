@@ -1,0 +1,5 @@
+model,accuracy
+SVM,1.0
+SGD,1.0
+RF,1.0
+MLP,1.0
